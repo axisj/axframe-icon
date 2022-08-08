@@ -1,0 +1,17 @@
+.husky
+.idea
+.storybook
+icons
+scripts
+src
+stories
+storybook-static
+webpack
+README.md
+.eslintrc.json
+.gitignore
+.npmignore
+.prettierrc
+.qirc.json
+tsconfig.build.json
+tsconfig.json
