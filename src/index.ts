@@ -1,5 +1,7 @@
 export * from './components/Basic/RFIAdd';
 export * from './components/Basic/RFIArrowDown';
+export * from './components/Basic/RFIArrowLogIn';
+export * from './components/Basic/RFIArrowLogOut';
 export * from './components/Basic/RFIArrowUp';
 export * from './components/Basic/RFIClose';
 export * from './components/Basic/RFIHome';
