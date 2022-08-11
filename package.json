@@ -1,6 +1,6 @@
 {
   "name": "react-frame-icon",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "homepage": "https://chequer-io.github.io/react-frame-icon",
   "jsnext:main": "dist/es6/index.js",
   "module": "dist/es6/index.js",
