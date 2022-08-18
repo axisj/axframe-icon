@@ -17,6 +17,7 @@ export * from './components/File/RFIDefaultProgram';
 export * from './components/File/RFIFile';
 export * from './components/File/RFIGraph';
 export * from './components/File/RFIInbox';
+export * from './components/File/RFIListSearch';
 export * from './components/File/RFIProject';
 export * from './components/File/RFIReport';
 export * from './components/File/RFISetting';
