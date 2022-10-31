@@ -10,10 +10,6 @@ export const AppnoriLogo: CustomizedSVGComponent = ({ ...props }) => (
     {...props}
   >
     <path
-      d="M0 2.88C0 1.28942 1.28942 0 2.88 0H21.12C22.7106 0 24 1.28942 24 2.88V21.12C24 22.7106 22.7106 24 21.12 24H2.88C1.28942 24 0 22.7106 0 21.12V2.88Z"
-      fill="white"
-    />
-    <path
       className="color-controlled"
       fillRule="evenodd"
       clipRule="evenodd"
