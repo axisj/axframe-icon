@@ -118,6 +118,7 @@ import { CustomizedSVGComponent } from '../../typings';
 export const ${component.name}: CustomizedSVGComponent = ({ ...props }) => (
   ${newSvgCode
     .replaceAll('xlink:href', 'xlinkHref')
+    .replaceAll('class=', 'className=')
     .replace('temp="{...props}"', '{...props}')}
 );
   `.trim();

@@ -1,6 +1,10 @@
-svg[data-rfi-color-controllable="true"] * {
-    fill: currentColor;
+svg[data-rfi-color-controllable='true'] * {
+  fill: currentColor;
 }
 
-svg[data-rfi-color-controllable="false"] * {
+svg[data-rfi-color-controllable='false'] * {
+}
+
+svg[data-rfi-color-controllable='false'] .color-controlled {
+  fill: currentColor;
 }

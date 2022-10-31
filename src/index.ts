@@ -19,6 +19,7 @@ export * from './components/Basic/RFIReload';
 export * from './components/Basic/RFIRevert';
 export * from './components/Basic/RFISearch';
 export * from './components/Basic/RFISun';
+export * from './components/Brand/AppnoriLogo';
 export * from './components/Brand/ReactFrameLogo';
 export * from './components/File/RFIDefaultProgram';
 export * from './components/File/RFIFile';
