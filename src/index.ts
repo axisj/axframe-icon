@@ -30,4 +30,5 @@ export * from './components/File/RFIProject';
 export * from './components/File/RFIReport';
 export * from './components/File/RFISetting';
 export * from './components/File/RFITemplate';
+export * from './components/File/RFIUsers';
 export * from './components/File/RFIWriteForm';
