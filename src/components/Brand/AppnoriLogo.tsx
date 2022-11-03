@@ -5,12 +5,11 @@ import { CustomizedSVGComponent } from '../../typings';
 export const AppnoriLogo: CustomizedSVGComponent = ({ ...props }) => (
   <SvgComponent
     viewBox="0 0 24 24"
-    role="rfi-icon"
-    data-rfi-color-controllable="false"
+    role="axf-icon"
+    data-axf-i-color-controllable="false"
     {...props}
   >
     <path
-      className="color-controlled"
       fillRule="evenodd"
       clipRule="evenodd"
       d="M21.12 2.24H2.88C2.52654 2.24 2.24 2.52654 2.24 2.88V21.12C2.24 21.4735 2.52654 21.76 2.88 21.76H21.12C21.4735 21.76 21.76 21.4735 21.76 21.12V2.88C21.76 2.52654 21.4735 2.24 21.12 2.24ZM2.88 0C1.28942 0 0 1.28942 0 2.88V21.12C0 22.7106 1.28942 24 2.88 24H21.12C22.7106 24 24 22.7106 24 21.12V2.88C24 1.28942 22.7106 0 21.12 0H2.88Z"

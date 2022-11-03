@@ -1,5 +1,4 @@
-# React Frame icon plugin
-![](https://img.shields.io/badge/node-14.19.0-026e00)
+# @axframe/icon
 
 Convert svg files into tsx files to make icons easy to use in your React based project.
 

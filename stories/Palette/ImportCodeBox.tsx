@@ -41,7 +41,7 @@ const ImportCodeBox = () => {
       <span data-color="purple">{`{`}</span>{' '}
       <span data-color="white">IconName</span>{' '}
       <span data-color="purple">{`}`}</span> <span data-color="cyan">from</span>{' '}
-      <span data-color="green">'rfi-icon'</span>
+      <span data-color="green">'@axframe/icon'</span>
       <span data-color="purple">;</span>
       <CopyIcon fontSize={16} onClick={handleClickCopyIcon} />
     </Code>

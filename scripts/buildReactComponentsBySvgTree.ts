@@ -13,17 +13,17 @@ import getConfig from './getConfig';
 
 type SvgCustomProps = {
   [name: string]: {
-    key: 'role' | `data-rfi-${string}`;
+    key: 'role' | `data-axf-i-${string}`;
     value?: string;
   };
 };
 const svgCustomProps: SvgCustomProps = {
   role: {
     key: 'role',
-    value: 'rfi-icon',
+    value: 'axf-icon',
   },
   controllable: {
-    key: 'data-rfi-color-controllable',
+    key: 'data-axf-i-color-controllable',
   },
 } as const;
 
@@ -105,7 +105,7 @@ async function buildComponentFromSvg({
   newSvgCode = newSvgCode
     .substring(newSvgCode.indexOf('\n'))
     .replace(/(?=.*-)([\w-]+)(?==".*")/gm, w => {
-      if (w.indexOf('data-rfi-') > -1) return w;
+      if (w.indexOf('data-axf-i-') > -1) return w;
 
       return toCamelCase(w);
     });

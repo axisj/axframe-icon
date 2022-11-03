@@ -1,7 +1,7 @@
 {
-  "name": "react-frame-icon",
+  "name": "@axframe/icon",
   "version": "0.1.5",
-  "homepage": "https://chequer-io.github.io/react-frame-icon",
+  "homepage": "https://github.com/axisj/axframe-icon",
   "jsnext:main": "dist/es6/index.js",
   "module": "dist/es6/index.js",
   "main": "dist/commonjs/index.js",
@@ -64,5 +64,9 @@
     "typescript": "4.5.5",
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
