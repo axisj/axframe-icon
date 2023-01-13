@@ -7,6 +7,7 @@ export * from './components/Basic/AXFIArrowRight';
 export * from './components/Basic/AXFIArrowUp';
 export * from './components/Basic/AXFICalendarEvent';
 export * from './components/Basic/AXFIClose';
+export * from './components/Basic/AXFIDirections';
 export * from './components/Basic/AXFIHome';
 export * from './components/Basic/AXFILanguage';
 export * from './components/Basic/AXFIMenuFold';
