@@ -2,7 +2,7 @@ import * as React from 'react';
 import SvgComponent from '../../common/SvgComponent';
 import { CustomizedSVGComponent } from '../../typings';
 
-export const AXFISqureDel: CustomizedSVGComponent = ({ ...props }) => (
+export const AXFISquareDel: CustomizedSVGComponent = ({ ...props }) => (
   <SvgComponent
     viewBox="0 0 24 24"
     role="axf-icon"
