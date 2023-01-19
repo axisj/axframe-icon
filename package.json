@@ -1,6 +1,6 @@
 {
   "name": "@axframe/icon",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/axisj/axframe-icon",
   "jsnext:main": "dist/es6/index.js",
   "module": "dist/es6/index.js",
