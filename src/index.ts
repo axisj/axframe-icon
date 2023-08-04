@@ -8,6 +8,7 @@ export * from './components/Basic/AXFIArrowUp';
 export * from './components/Basic/AXFICalendarEvent';
 export * from './components/Basic/AXFIClose';
 export * from './components/Basic/AXFIDirections';
+export * from './components/Basic/AXFIDownCircle';
 export * from './components/Basic/AXFIEdit';
 export * from './components/Basic/AXFIGripHorizontal';
 export * from './components/Basic/AXFIGripVertical';
